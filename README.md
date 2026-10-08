@@ -5,7 +5,6 @@ Security engineer focused on multiplying what security teams can do—through op
 ## What I'm working on
 
 - **Security Engineer II @ Amazon** — Building AI triage agents, unified auth libraries, and governed automation pipelines for the global security org
-- **[LaunchStacks](https://launchstacks.dev)** — IaC templates and AI agent prompts that make DevOps, security, and networking accessible
 - **Homelab** — Production-grade infrastructure: 5 Docker hosts, 2 VLANs, 29+ services, full observability with Prometheus/Grafana/Loki, managed via Ansible and OpenTofu
 
 ## Tech
